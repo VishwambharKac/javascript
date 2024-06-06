@@ -1,0 +1,30 @@
+const - if we declare variable in const it will not change
+let- in this we can change ,modify ,etc and always use this instead of var 
+
+//Datatypes -
+let name = "Vishwambhar" //string
+let age = 23 //number
+let isloggedIn = false  //boolean
+
+
+Primitive datatypes=
+number = 2 to the power of 53
+string = in string we can use single / double cot
+boolean = true or false
+
+number = 2 to the power of 53
+string = in string we can use single / double cot
+boolean = true or false
+bigint = use for large value than number
+null = standalone value
+undefined = the value is not define
+sysbol = used for unique component
+
+//CAMPARISON OPERATOR-
+ console.log(2 < 4)
+ console.log(2 > 4)
+ console.log(2 <= 4)
+ console.log(2 >= 4)
+ console.log(2 == 4)
+ console.log(2 != 4)
+
